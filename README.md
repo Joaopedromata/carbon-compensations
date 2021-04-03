@@ -1,10 +1,3 @@
-
-## 🚧 Implementation
-
-### I choose the django because is more easy to init a application and the database is a sqlite db.
-
-<hr>
-
 ## 🔥 Let's run!
 
 - ### **You must have...**
