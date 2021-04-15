@@ -32,7 +32,7 @@
 
 #  Routes
 
-- ### To create a user without recommendation:
+- ### To create an user without recommendation:
 
         url:  POST /create_user/
     
